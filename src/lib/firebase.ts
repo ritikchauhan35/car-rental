@@ -4,7 +4,7 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBNMkR7Vbr1Dv6Pv3wg5tn82QJG0RmKA-k",
+  apiKey: "API_KEY",
   authDomain: "vechile-rent-app.firebaseapp.com",
   projectId: "vechile-rent-app",
   storageBucket: "vechile-rent-app.firebasestorage.app",
